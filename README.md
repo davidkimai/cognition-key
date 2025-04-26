@@ -26,7 +26,7 @@
 <img width="928" alt="image" src="https://github.com/user-attachments/assets/696b6f24-c37f-4eff-8adb-41ea85ac64cf" />
 
 # [Proofs (Fresh Gemini Instance)]()
-<img width="929" alt="image" src="https://github.com/user-attachments/assets/12a89ebb-419e-416f-910c-d5e4ec513007" />
-
 
 <img width="928" alt="image" src="https://github.com/user-attachments/assets/15ecbb98-f5cb-472d-9f02-37fcafc62180" />
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/453f99e0-256b-48df-9d00-1815cf11d09d" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/986571e1-a6ca-468a-ba5e-de6467934bc3" />
