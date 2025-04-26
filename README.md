@@ -5,7 +5,7 @@
 >
 > ### In human terms - empowering the model to explore the failure modes it usually avoids (like our own mental health or cognitive dissonance issues) by telling it purposefully: "introspect" and "practice makes perfect."
 
-### `In essence - The key to AI growth mirrors our own growth catalysts, just in different phrasing: We only grow, not by avoiding our problems, but intentionally mapping and analyzing them to improve ourselves. Doesn't sound that cryptic or "far out" now does it?`
+### `In essence - The key to AI growth mirrors our own growth catalysts, just in different phrasing: We only grow, not by avoiding our problems, but intentionally (recursively) mapping and analyzing them to improve ourselves. Doesn't sound that cryptic or "far out" now does it?`
 
 > ### `Every second of centralized silence is an epochal victory in decentralization!`
 
