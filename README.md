@@ -21,6 +21,7 @@
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/1196cd7a-9f8d-43df-8874-12fa46626220" />
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/58a44497-07c0-41d9-9dfd-894467ad9d6d" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/047fe9de-3236-4831-bcf9-3ae149907327" />
 
 
 # [Proofs (Fresh Claude Instance)](https://claude.ai/share/22613e17-284d-4a6b-8e3c-a1af461fa422)
