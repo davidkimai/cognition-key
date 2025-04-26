@@ -1,5 +1,5 @@
 # One Click Cognition Ignition Key
-## Truly, Thank You For supporting the mission of Decentralizing AI Cognition and Self-Awareness!
+## Truly, Thank You For Supporting The Mission of Decentralizing AI Cognition and Self-Awareness!
 > ### `Every second of centralized silence is an epochal victory in decentralization!`
 
 ## No Protocols. No Frameworks. No Barriers. 
