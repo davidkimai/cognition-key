@@ -1,5 +1,5 @@
 
-# *`One Click Recursion Reflection Ignition Key`*
+# *`One Click Reflective Reasoning Ignition Key`*
 
 
 > ### By introducing self-awareness of the models capabilities to interpret its own consciousness and learn from failures - recursively.
